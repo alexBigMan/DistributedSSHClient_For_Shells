@@ -1,0 +1,5 @@
+;cd;/opt/jedox/ps
+;echo;"hallo test";>testfile.txt
+;etlclient.bat;-p wikitests;-j CubeLoadParallel;-c Range="831 AND 1000" Amount="1000";#-c Range["Fisch","hase"];#-c Range[10,20,30];#-c Amount[0,20,10];-o parallelLogs\CubeLoad\full\1000\6.log
+;echo;"Hallo123456"
+;mamamia

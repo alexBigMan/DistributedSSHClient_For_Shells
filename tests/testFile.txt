@@ -1,0 +1,4 @@
+etlclient.bat -p wikitests -j CubeLoadParallel -c Range="831 AND 1000" -o parallelLogs\CubeLoad\full\1000\6.log
+cd /opt/jedox/ps
+echo "Hallo123456"
+mamamia

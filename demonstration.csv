@@ -1,0 +1,8 @@
+;echo;"hallo test";>testfile.txt
+;cd;~/alex/testdir/
+;ls;-l
+;lsa
+;ls;-kran
+--PATH alexTest/test/test2/
+--PATH alexTest/test/test3/
+;echo;"hallo test";>testfile.txt

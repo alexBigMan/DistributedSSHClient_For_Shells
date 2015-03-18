@@ -1,0 +1,10 @@
+Last login: Tue Mar  3 16:09:36 2015 from h66-231.rz.hs-offenburg.de
+[zimadmin@zim3ext ~]$ 
+[zimadmin@zim3ext ~]$ etlclient.bat -p wikitests -j CubeLoadParallel -c Range="8 31 AND 1000" -o parallelLogs\CubeLoad\full\1000\6.log
+-bash: etlclient.bat: command not found
+[zimadmin@zim3ext ~]$ cd /opt/jedox/ps
+[zimadmin@zim3ext ps]$ echo "Hallo123456"
+Hallo123456
+[zimadmin@zim3ext ps]$ mamamia
+-bash: mamamia: command not found
+[zimadmin

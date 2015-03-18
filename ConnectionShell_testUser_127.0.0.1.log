@@ -1,0 +1,3 @@
+ls -l halle/bla 	
+ [userTest@userTest] echo $? 	
+ 127
